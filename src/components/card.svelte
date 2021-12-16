@@ -7,7 +7,7 @@
 		<div class="card " style="width: 50rem;">
 			<img src={card.image} class="card-img-top" alt="..." />
 			<div class="card-body">
-				<h5 class="text-center">{card.title}e</h5>
+				<h5 class="text-center">{card.title}</h5>
 				<p class="card-text text-center">
 					{card.description}
 				</p>
